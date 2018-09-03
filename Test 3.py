@@ -9,4 +9,5 @@ print("I like to eat at", str, "I usually get the", food, "and", beverage)
 # assign variable first
 # add input + what you want the user to see
 # enter answers below in python console
-# answers will then be plugged in when printed 
+# answers will then be plugged in when printed
+# then code will appear 
