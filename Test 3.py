@@ -10,6 +10,7 @@
 # add input + what you want the user to see
 # enter answers below in python console
 # answers will then be plugged in when printed
+<<<<<<< HEAD
 # then code will appear
 
 #integer = 1
@@ -33,3 +34,7 @@ print('num4: ', num4)
 
 random_day = random.choice(['Monday', 'Tuesday', 'Wednesday'])
 print('day: ', random_day)
+=======
+# then code will appear 
+# helloworld
+>>>>>>> b7868c738efe6a9fb741c7edd08cdc6b40d7ca6b
